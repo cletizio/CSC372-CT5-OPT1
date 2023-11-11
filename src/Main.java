@@ -9,6 +9,10 @@ public class Main {
             System.out.println(num);
         }
 
+        double result = Recursion.calculateProduct(userNums);
+        System.out.println(result);
+
+
     }
 
 }

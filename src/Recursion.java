@@ -16,4 +16,18 @@ public class Recursion {
             return result;
         }
     }
+
+    public static double calculateProduct(double[] numbers){
+        if (numbers.length == 0){
+            return 1;
+        }
+        else {
+            return numbers[0] * calculateProduct(subArray(numbers, 1));
+        }
+    }
+    public static double[] subArray(double[] array, int startIndex) {
+        double[] result = new double[array.length - startIndex];
+        System.arraycopy(array, startIndex, result, 0, result.length);
+        return result;
+    }
 }
