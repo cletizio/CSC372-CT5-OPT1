@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f4cb0e-e515-4d89-95e5-9c8695a5d684" name="Changes" comment="Got recursion working for the main list of numbers.">
+    <list default="true" id="c5f4cb0e-e515-4d89-95e5-9c8695a5d684" name="Changes" comment="Got the calculation recursion working">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion.java" afterDir="false" />
@@ -65,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699664254292</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Got the calculation recursion working">
+      <created>1699666238479</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699666238479</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +89,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Got recursion working for the main list of numbers." />
-    <option name="LAST_COMMIT_MESSAGE" value="Got recursion working for the main list of numbers." />
+    <MESSAGE value="Got the calculation recursion working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Got the calculation recursion working" />
   </component>
 </project>
